@@ -1,0 +1,14 @@
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.exe
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.deps.json
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.runtimeconfig.json
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.runtimeconfig.dev.json
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.dll
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\bin\Debug\netcoreapp3.1\UC3SnakeLadderOptions.pdb
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.AssemblyInfoInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.AssemblyInfo.cs
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.csproj.CoreCompileInputs.cache
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.dll
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.pdb
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.genruntimeconfig.cache
+C:\Users\91807\Desktop\Batch67\UC3SnakeLadderOptions\obj\Debug\netcoreapp3.1\UC3SnakeLadderOptions.csproj.AssemblyReference.cache
